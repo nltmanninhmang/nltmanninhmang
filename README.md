@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://nguyenletranminh.io.vn/img-github/profile.jpg"  />
+  <img height="300" src="/info.jpg"  />
 </div>
 
 ###
