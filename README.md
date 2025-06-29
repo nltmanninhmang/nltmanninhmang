@@ -46,8 +46,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nltmanninhmang/nltmanninhmang/output/snake.svg" alt="Snake animation" />
-
-###
